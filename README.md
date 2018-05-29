@@ -9,7 +9,7 @@
  
 ## demo的演示
 ### 进入初始化界面
- ![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE.png)
+ ![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE1.png)
  
  总布局为相对布局，其中包含着头部的线性布局和一个图片按钮view.
  

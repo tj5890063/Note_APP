@@ -22,7 +22,7 @@
  ![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E7%AC%AC%E4%BA%8C%E6%9D%A1.png)
  
 ### 插入第一条数据到数据库，并在界面中显示内容
-![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E5%AE%8C%E6%88%90%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%86%85%E5%AE%B9%E7%9A%84%E7%95%8C%E9%9D%A2.png)
+![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%AE%8C%E6%88%90%E7%9A%84%E7%95%8C%E9%9D%A2.png)
 
 ### 编写第二条便签
 ![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E7%AC%AC%E4%BA%8C%E6%9D%A1.png)

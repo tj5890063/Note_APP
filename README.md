@@ -14,7 +14,7 @@
  总布局为相对布局，其中包含着头部的线性布局和一个图片按钮view.
  
  ### 进入编写便签界面
- ![image]https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E7%BC%96%E5%86%99%E4%BE%BF%E7%AD%BE%E6%88%AA%E5%9B%BE.png)
+ ![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E7%BC%96%E5%86%99%E4%BE%BF%E7%AD%BE%E6%88%AA%E5%9B%BE.png)
  
  拥有顶部线性布局和中间2个编辑框.
  

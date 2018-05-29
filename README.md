@@ -40,6 +40,7 @@
 
 ### 查询操作
 ![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E6%9F%A5%E8%AF%A2.png)
+
 查询没有存在的便签，会提示没有当前便签存在
 
 ### 根据标题查找了名为明天星期三的便签，一共出现2个
@@ -47,15 +48,17 @@
 
 ### 删除操作
 ![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E5%88%A0%E9%99%A4%E6%93%8D%E4%BD%9C.png)
+
 删除第二个的便签
 
 ### 删除后的界面利用适配器的notifyDataSetChanged()进行更新UI界面
 ![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E5%88%A0%E9%99%A4%E5%AE%8C%E6%88%90%E5%90%8E.png)
- 就会显示列表只剩1个名为"明天星期三”的便签
+
+就会显示列表只剩1个名为"明天星期三”的便签
 ### 修改操作
 ![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E4%BF%AE%E6%94%B9%E6%93%8D%E4%BD%9C.png)
 
- 点击修改的图片，进入编写界面，点击完成后，会显示最新更改的时间.
+### 点击修改的图片，进入编写界面，点击完成后，会显示最新更改的时间.
  ![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E4%BF%AE%E6%94%B9%E5%90%8E.png)
  
 ### 扩展功能：更改背景颜色

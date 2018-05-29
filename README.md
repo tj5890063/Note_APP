@@ -1,9 +1,10 @@
  
 #  期中作业便签APP
 ### 主要利用SQLiteOpenHelper辅助类实现对数据库的增删改查，利用listview控件和适配器的建立实现数据列表
-1
+
 ### 主要的流程图
-  ![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E4%B8%BB%E8%A6%81%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+
+![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E4%B8%BB%E8%A6%81%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
  在本实验中，主要逻辑就是建立的便签存储在数据库的记录中，在主界面用onActivityResult()方法回调接收数据，并进行数据的筛选，绑定数据源，并建立适配器，最后让listview与适配器进行绑定，完成数据的显示。
  
@@ -62,8 +63,9 @@
  ![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E4%BF%AE%E6%94%B9%E5%90%8E.png)
  
 ### 扩展功能：更改背景颜色
- 选择菜单栏的颜色选项
- ![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E9%A2%9C%E8%89%B2%E9%80%89%E6%8B%A9.png)
+选择菜单栏的颜色选项
+
+![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E9%A2%9C%E8%89%B2%E9%80%89%E6%8B%A9.png)
  
 ### 选择红色
  ![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E7%BA%A2%E8%89%B2.png)

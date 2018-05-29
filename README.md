@@ -39,11 +39,11 @@
  按最后更新的时间进行从近到远进行排序，主要利用的Collections的sort方法进行排序.
 
 ### 查询操作
-![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E6%90%9C%E7%B4%A2.png)
+![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E6%9F%A5%E8%AF%A2.png)
 查询没有存在的便签，会提示没有当前便签存在
 
 ### 根据标题查找了名为明天星期三的便签，一共出现2个
-![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E6%9F%A5%E8%AF%A2%E6%93%8D%E4%BD%9C.png)
+![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E6%9F%A5%E8%AF%A2%E6%93%8D%E4%BD%9C.jpg)
 
 ### 删除操作
 ![image](https://raw.githubusercontent.com/tj5890063/Note_APP/master/app/src/main/res/drawable-v24/%E5%88%A0%E9%99%A4%E6%93%8D%E4%BD%9C.png)

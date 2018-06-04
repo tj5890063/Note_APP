@@ -1,6 +1,6 @@
  
 #  期中作业便签APP
-### 主要利用SQLiteOpenHelper辅助类实现对数据库的增删改查，利用listview控件和适配器的建立实现数据列表
+### 主要利用SQLiteOpenHelper辅助类实现对数据库的创建和打开，再利用SQLiteDatabase类对数据库进行增删改查，利用listview控件和适配器的建立实现数据列表
 
 ### 主要的流程图
 
